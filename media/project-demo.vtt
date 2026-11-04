@@ -1,13 +1,16 @@
 WEBVTT
 
 00:00:00.000 --> 00:00:03.000
-This is my Simple Calculator, written in Python.
+This is my simple calculator i build and it's written by c++.
 
 00:00:03.000 --> 00:00:06.000
-I enter the first number, 12, and the operator +.
+I enter the first number, 10, and the operator +.
 
 00:00:06.000 --> 00:00:09.000
-Then I enter the second number, 30.
+Then I enter the second number, 5.
 
 00:00:09.000 --> 00:00:12.000
-The program prints the result: 42.
+The program prints the result: 15.
+
+00:00:12.000 --> 00:00:14.000
+Soucide squade forever.
